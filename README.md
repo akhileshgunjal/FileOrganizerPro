@@ -30,25 +30,23 @@ File Organizer Pro automatically organizes files into categorized folders based 
 - ℹ️ About window
 - 🖥️ Windows executable support
 
----
-
 ## 🖥️ Application Preview
 
 ### 🏠 Main Dashboard
 
-![Main Dashboard](screenshots/main-dashboard.png)
+![Main Dashboard](screenshots/main-dashboard.JPG)
 
 ### 🔎 File Search
 
-![File Search](screenshots/search.png)
+![File Search](screenshots/search.JPG)
 
 ### ⚙️ Settings
 
-![Settings](screenshots/settings.png)
+![Settings](screenshots/setting.JPG)
 
 ### ℹ️ About
 
-![About](screenshots/about.png)
+![About](screenshots/about.JPG)
 
 ---
 
