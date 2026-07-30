@@ -1,0 +1,78 @@
+[2026-07-28 23:30:07] Organization started
+[2026-07-28 23:30:07] Moved CSE2102_Data Communication and Computer Networks.pdf → PDFs
+[2026-07-28 23:30:07] Moved DATA_LINK_LAYER_Module_5_(2).pptx → Others
+[2026-07-28 23:30:07] Moved DCCN 2554 Lab 5.docx → Documents
+[2026-07-28 23:30:07] Moved DCCN Lab 5.docx → Documents
+[2026-07-28 23:30:07] Moved DCCN_2554_ LAB1.docx → Documents
+[2026-07-28 23:30:07] Moved DCCN_2554_ LAB2.docx → Documents
+[2026-07-28 23:30:07] Moved DCCN_2554_ LAB3.docx → Documents
+[2026-07-28 23:30:07] Moved DCCN_2554_ LAB4.docx → Documents
+[2026-07-28 23:30:07] Moved DCCN_2554_ LAB6.docx → Documents
+[2026-07-28 23:30:07] Moved DCCN_2556_ LAB1.docx → Documents
+[2026-07-28 23:30:07] Moved DCCN_2556_ LAB2.docx → Documents
+[2026-07-28 23:30:07] Moved DCCN_2556_ LAB3.docx → Documents
+[2026-07-28 23:30:07] Moved DCCN_2556_ LAB4.docx → Documents
+[2026-07-28 23:30:07] Moved DCCN_2568_ LAB6.docx → Documents
+[2026-07-28 23:30:07] Moved dip_584_lab6.pdf_20260402_104146_0000.pdf → PDFs
+[2026-07-28 23:30:07] Moved E.pptx → Others
+[2026-07-28 23:30:07] Moved MANUAL LAB.docx → Documents
+[2026-07-28 23:30:07] Moved Module-I_Introduction_to_Computer_Networks.pptx → Others
+[2026-07-28 23:30:07] Moved Network_Layer_Module_IV.ppt → Others
+[2026-07-28 23:30:07] Moved SY_CSE2104_Computer Networks End term QP.pdf → PDFs
+[2026-07-28 23:30:07] Moved WhatsApp Image 2026-05-09 at 1.08.39 AM.jpeg → Images
+[2026-07-28 23:30:07] Completed — 21 files organized
+[2026-07-28 23:30:13] Undo completed — 21 files restored
+[2026-07-29 00:00:43] Organization started
+[2026-07-29 00:00:43] Moved DIP_M1.pdf → PDFs
+[2026-07-29 00:00:43] Moved DIP_M2.pdf → PDFs
+[2026-07-29 00:00:43] Moved DIP_M3_part1.pdf → PDFs
+[2026-07-29 00:00:43] Moved DIP_M4.pdf → PDFs
+[2026-07-29 00:00:43] Moved DIP_M5.pdf → PDFs
+[2026-07-29 00:00:43] Moved DIP_Module3_part2.pdf → PDFs
+[2026-07-29 00:00:43] Moved DIP_Module_2_part1.pdf → PDFs
+[2026-07-29 00:00:43] Moved lab questions IMP.pdf → PDFs
+[2026-07-29 00:00:43] Moved 🎯 Viva Questions.pdf → PDFs
+[2026-07-29 00:00:43] Completed — 9 files organized
+[2026-07-29 00:00:46] Report generated: reports\organization_report.txt
+[2026-07-29 00:04:54] Report generated: reports\organization_report.txt
+[2026-07-29 00:04:59] Report generated: reports\organization_report.txt
+[2026-07-29 00:05:58] Organization started
+[2026-07-29 00:05:58] Moved DIP_M1.pdf → PDFs
+[2026-07-29 00:05:58] Moved DIP_M2.pdf → PDFs
+[2026-07-29 00:05:58] Moved DIP_M3_part1.pdf → PDFs
+[2026-07-29 00:05:58] Moved DIP_M4.pdf → PDFs
+[2026-07-29 00:05:58] Moved DIP_M5.pdf → PDFs
+[2026-07-29 00:05:58] Moved DIP_Module3_part2.pdf → PDFs
+[2026-07-29 00:05:58] Moved DIP_Module_2_part1.pdf → PDFs
+[2026-07-29 00:05:58] Moved lab questions IMP.pdf → PDFs
+[2026-07-29 00:05:58] Moved 🎯 Viva Questions.pdf → PDFs
+[2026-07-29 00:05:58] Completed — 9 files organized
+[2026-07-29 00:06:03] Report generated: reports\organization_report.txt
+[2026-07-29 00:10:48] Organization started
+[2026-07-29 00:10:48] Moved 1.JPG → Images
+[2026-07-29 00:10:48] Moved 2.JPG → Images
+[2026-07-29 00:10:48] Moved 20240802554 DMW Assignment.pdf → PDFs
+[2026-07-29 00:10:48] Moved 20240802568_DMW_Project_Report.pdf → PDFs
+[2026-07-29 00:10:48] Moved 3.JPG → Images
+[2026-07-29 00:10:48] Moved 4.JPG → Images
+[2026-07-29 00:10:48] Moved 5.JPG → Images
+[2026-07-29 00:10:48] Moved 6.JPG → Images
+[2026-07-29 00:10:48] Moved Capture.JPG → Images
+[2026-07-29 00:10:48] Moved Coursera 0BZY9NONR48O.pdf → PDFs
+[2026-07-29 00:10:48] Moved Coursera_Report_554.docx → Documents
+[2026-07-29 00:10:48] Moved Coursera_Report_568.docx → Documents
+[2026-07-29 00:10:48] Moved DMW_syllabus_final_docx.pdf → PDFs
+[2026-07-29 00:10:48] Moved Module 5.pptx.pdf → PDFs
+[2026-07-29 00:10:48] Completed — 14 files organized
+[2026-07-29 00:10:53] Report generated: reports\organization_report.txt
+[2026-07-29 16:00:46] Organization started
+[2026-07-29 16:00:46] Moved Acm syllabus.pdf → PDFs
+[2026-07-29 16:00:46] Moved ACM_II_2025_QP  SOLN-merged.pdf → PDFs
+[2026-07-29 16:00:46] Moved Coursera H7XUUSYD7XVK.pdf → PDFs
+[2026-07-29 16:00:46] Moved L 1 ACM II.pdf → PDFs
+[2026-07-29 16:00:46] Moved L 2 ACM II.pdf → PDFs
+[2026-07-29 16:00:46] Moved L 3 ACM II 15 18.pdf → PDFs
+[2026-07-29 16:00:46] Moved L 4 ACM II.pdf → PDFs
+[2026-07-29 16:00:46] Completed — 7 files organized
+[2026-07-29 23:21:14] Organization started
+[2026-07-29 23:21:14] Completed — 0 files organized
