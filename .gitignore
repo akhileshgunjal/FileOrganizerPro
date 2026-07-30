@@ -10,7 +10,7 @@ venv/
 .idea/
 
 *.log
-
+logs/
 reports/*.txt
 
 .DS_Store
